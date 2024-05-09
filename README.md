@@ -1,4 +1,7 @@
-# Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+# Mamba_SSM
+
+### Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+#### Winter 2024, CSE 291 (L00): Theory of LLMs, UC San Diego
 
 Deep learning applications have seen substantial advancements with the advent of the Transformer
 architecture and its attention mechanism. Despite its success, Transformers face challenges in
@@ -32,3 +35,7 @@ Metzler, D. Long range arena: A benchmark for efficient transformers, 2020.
 9. Tay, Y., Dehghani, M., Bahri, D., and Metzler, D. Efficient transformers: A survey, 2022.
 10. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., and
 Polosukhin, I. Attention is all you need, 2023.
+
+## Collaborators
+1. Sanidhya Singal
+2. Aditya Gulati
