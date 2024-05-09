@@ -10,8 +10,8 @@ focus on Mamba, a novel neural network architecture that integrates selective st
 models (SSMs) to address this limitation.
 
 ## Links
-1. ![Report](https://github.com/sayhitosandy/Mamba_SSM/blob/master/Project_Report.pdf)
-2. ![Presentation](https://github.com/sayhitosandy/Mamba_SSM/blob/master/Project_Presentation.pdf)
+1. [Report](Project_Report.pdf)
+2. [Presentation](Project_Presentation.pdf)
 
 
 ## References
